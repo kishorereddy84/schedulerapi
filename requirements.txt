@@ -1,4 +1,4 @@
-djangorestframework==3.11.0
-Django==3.0.7
-django-cors-headers==1.1.0
-pyodbc==4.0.17
+django-rest-framework
+Django
+django-cors-headers
+pyodbc
